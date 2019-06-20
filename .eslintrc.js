@@ -15,3 +15,5 @@ module.exports = {
     parser: 'babel-eslint'
   }
 }
+
+// 代码校验规则
